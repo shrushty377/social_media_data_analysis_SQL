@@ -1,5 +1,3 @@
-https://github.com/shrushty377/social_media_data_analysis_SQL/blob/main/final_SQL_project.pdf
-
 Social-Media-Data-Analysis (SQL Project)
 Project Objective
 
@@ -28,7 +26,6 @@ Top-performing posts based on total interactions.
 
 Which platform has the highest consistency in performance?
 
-sample Output Screenshots:-
-"C:\Users\User\OneDrive\Dokumen\one drive\OneDrive\Pictures\Screenshots\Screenshot 2025-11-25 002231.png"
-<a href="Screenshot 2025-11-25 002231.png">View SQL Output Screenshot</a>
+Tables Screenshots:-
+https://github.com/shrushty377/social_media_data_analysis_SQL/blob/main/Screenshot%202025-11-25%20002231.png
 
